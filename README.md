@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [VIM Script Reference Sheet](#vim-script-reference-sheet)
+    - [Path to Current Buffer](#path-to-current-buffer)
+      - [Show Current Buffer File](#show-current-buffer-file)
+      - [Insert Current Buffer File Path at cursor position](#insert-current-buffer-file-path-at-cursor-position)
+    - [Pipe Shell Command to New Buffer](#pipe-shell-command-to-new-buffer)
+    - [Set Map Keys](#set-map-keys)
+    - [Useful Commands](#useful-commands)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <!--
     VIM Editor Reference Card
 -->
